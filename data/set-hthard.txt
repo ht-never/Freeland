@@ -1,0 +1,10 @@
+Freeland Hard
+Freestyle high quality levels!\Author: A. Del Santo & G. Frate
+htn
+shot-freeland/hotway.png
+
+map-hthard/hotway.sol
+map-hthard/soccer.sol
+map-hthard/garden.sol
+map-hthard/timers.sol
+map-hthard/killers.sol

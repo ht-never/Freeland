@@ -1,0 +1,30 @@
+Freeland Easy
+Easy Freestyle Levels!\Author: A. Del Santo & G. Frate
+hte
+shot-hteasy/01.png
+
+map-hteasy/01.sol
+map-hteasy/02.sol
+map-hteasy/03.sol
+map-hteasy/04.sol
+map-hteasy/I.sol
+map-hteasy/05.sol
+map-hteasy/06.sol
+map-hteasy/07.sol
+map-hteasy/08.sol
+map-hteasy/II.sol
+map-hteasy/09.sol
+map-hteasy/10.sol
+map-hteasy/11.sol
+map-hteasy/12.sol
+map-hteasy/III.sol
+map-hteasy/13.sol
+map-hteasy/14.sol
+map-hteasy/15.sol
+map-hteasy/16.sol
+map-hteasy/IV.sol
+map-hteasy/17.sol
+map-hteasy/18.sol
+map-hteasy/19.sol
+map-hteasy/20.sol
+map-hteasy/V.sol
